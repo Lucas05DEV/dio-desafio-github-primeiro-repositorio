@@ -1,0 +1,9 @@
+Anotações sobre Git/GitHub:
+- git init = inicializa o repositório
+- git add . = adiciona todos arquivos para commitar
+- git status = mostra o status 
+- git commit -m = envia uma mensagem
+
+- git clone <Link> = clona o repositório
+- git pull = puxar do repositório na nuvem
+- git push = enviar para a nuvem
